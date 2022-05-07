@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'The Book',
   tagline: 'A Life Time Learning Book',
-  url: 'https://inancer.github.io/',
+  url: 'https://inancer.github.io/Book',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
