@@ -9,7 +9,7 @@ const config = {
   title: 'The Book',
   tagline: 'A Life Time Learning Book',
   url: 'https://inancer.github.io/',
-  baseUrl: '/Book/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
