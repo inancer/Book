@@ -9,7 +9,7 @@ const config = {
   title: 'The Book',
   tagline: 'A Life Time Learning Book',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/Book/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
