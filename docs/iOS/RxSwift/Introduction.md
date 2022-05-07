@@ -1,8 +1,6 @@
 # RxSwift
 
-**RX**
-
-**Operatörler**
+## 1. Operatörler
 
 [**http://reactivex.io/documentation/operators.html#combining**](http://reactivex.io/documentation/operators.html#combining)
 

@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "lineWrap": true,
+  "spellcheck": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images",
+  "newLinkFormat": "relative",
+  "showIndentGuide": false
+}
