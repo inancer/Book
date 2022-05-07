@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation_book=self.webpackChunkdocumentation_book||[]).push([[3748],{3375:function(o){o.exports=JSON.parse('{"permalink":"/Book/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
