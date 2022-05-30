@@ -127,5 +127,6 @@ It had occurred to me that (past)
 
   ![](images/Money%20talks..png)
 
-Would have v3 - yapardım
-Could have v3 - yapabilirdim
+- Would have v3 - yapardım
+- Could have v3 - yapabilirdim
+- Should have v3 - yapmalıydım
