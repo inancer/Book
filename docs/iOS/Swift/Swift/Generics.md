@@ -22,7 +22,7 @@ Use to declare a generic type in parameter position or in result position.
 
 A main type (as a protocol, an abstract class etc.) which is using for declaring a generic parameter.
 
-::: New in Swift 5.7
+:::note New in Swift 5.7
 Using some in parameter position.
 :::
 
@@ -32,7 +32,7 @@ Using some in parameter position.
 
 A subtype type (a class which is inherited from main type, applied a protocol etc.) which is using for reaching to target on run time.
 
-::: Note
+:::note
 Using some with Local variables, Underlying type has to be declared during implementation. This means local variables with opaque type must always have an initial value; and if you don't provide one, the compiler will report an error.
 :::
 
@@ -40,7 +40,7 @@ Using some with Local variables, Underlying type has to be declared during imple
 
 ![](images/Pasted%20image%2020220627153429.png)
 
-::: NOTE
+:::note
 Using "some" in parameter position is new in Swift 5.7.
 
 The underlying type only needs to be fixed for the scope of the parameter, so each call can provide a different argument type.
