@@ -4,7 +4,7 @@ Tag: #generics, #some, #opaque, #polymorphism
 
 ## Polymorphism
 
-::: Definition
+:::note Definition
 Polymorphism allows one piece of code to have many behaviors.
 :::
 
@@ -32,7 +32,7 @@ Using some in parameter position.
 
 A subtype type (a class which is inherited from main type, applied a protocol etc.) which is using for reaching to target on run time.
 
-:::Note
+::: Note
 Using some with Local variables, Underlying type has to be declared during implementation. This means local variables with opaque type must always have an initial value; and if you don't provide one, the compiler will report an error.
 :::
 
