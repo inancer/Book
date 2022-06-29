@@ -4,7 +4,7 @@ Tag: #generics, #some, #opaque, #polymorphism
 
 ## Polymorphism
 
-:::Definition
+::: Definition
 Polymorphism allows one piece of code to have many behaviors.
 :::
 
@@ -22,7 +22,7 @@ Use to declare a generic type in parameter position or in result position.
 
 A main type (as a protocol, an abstract class etc.) which is using for declaring a generic parameter.
 
-:::New in Swift 5.7
+::: New in Swift 5.7
 Using some in parameter position.
 :::
 
