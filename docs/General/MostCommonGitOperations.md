@@ -79,3 +79,9 @@
     6.  Then as always push
         
         `git push --force-with-lease`
+
+
+
+## Git Fetch vs Pull
+
+![](images/Pasted%20image%2020220712140258.png)
